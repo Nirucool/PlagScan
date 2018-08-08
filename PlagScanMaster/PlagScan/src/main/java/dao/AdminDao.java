@@ -16,7 +16,7 @@ import model.Instructor;
 /*
  * AdminDao class acts as an interface between the Servlet and the DB
  * when the admin sets up the accounts of Professor or TA's
- * @author Anirudh
+ * @author 
  */
 
 public class AdminDao 
