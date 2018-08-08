@@ -6,7 +6,7 @@ import dao.LoginDao;
 
 /*
  * LoginService for retrieving login details from the database
- * @author Anirudh
+ * @author 
  */
 public class LoginService 
 {
