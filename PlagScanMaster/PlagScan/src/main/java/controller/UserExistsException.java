@@ -3,7 +3,7 @@ package controller;
 
 /**
  * Custom Exception for Username Existing in Database
- * @author Aunsh
+ * @author
  */
 public class UserExistsException extends Exception 
 {
