@@ -1,7 +1,7 @@
 package model;
 /**
  * POJO for User statistics
- * @author Aunsh
+ * @author 
  *
  */
 public class UserStats {
