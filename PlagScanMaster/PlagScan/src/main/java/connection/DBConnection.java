@@ -9,7 +9,7 @@ import org.apache.log4j.Logger;
 
 /**
  * Class for connection to database
- * @author Anirudh
+ * @author 
  */
 public class DBConnection 
 {
