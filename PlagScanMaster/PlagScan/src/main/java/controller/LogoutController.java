@@ -13,7 +13,7 @@ import org.apache.log4j.Logger;
 
 @WebServlet("/LogoutController")
 /*
- * @author Anirudh
+ * @author 
  * LogoutController for logging a user out, ends the current session
  */
 public class LogoutController extends HttpServlet{
