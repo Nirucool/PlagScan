@@ -11,7 +11,7 @@ import model.Instructor;
 import service.AdminService;
 
 /*
- * @author Anirudh
+ * @author
  * AdminTests for admin's functions - setting up instructors
  */
 public class AdminDaoTest
