@@ -19,7 +19,7 @@ import service.AdminService;
 
 /**
  * Servlet implementation class AdminController
- * @author Anirudh
+ * @author 
  * AdminController lets the admin run a new test, set up instructors
  */
 @WebServlet("/AdminController")
