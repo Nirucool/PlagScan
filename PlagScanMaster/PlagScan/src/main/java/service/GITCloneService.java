@@ -19,7 +19,7 @@ import org.eclipse.jgit.transport.UsernamePasswordCredentialsProvider;
 import model.Submission;
 
 /*
- * @author Anirudh
+ * @author
  * GITCloneService for cloning and pulling a remote git repo
  */
 public class GITCloneService
