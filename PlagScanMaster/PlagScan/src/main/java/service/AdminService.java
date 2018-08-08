@@ -6,7 +6,7 @@ import dao.AdminDao;
 import model.Instructor;
 
 /*
- * @author Anirudh
+ * @author 
  * AdminService for setting up an instructor
  * invokes the dao method for inserting instructor info into the database
  */
