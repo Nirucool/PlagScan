@@ -13,7 +13,7 @@ import model.UserStats;
 
 /*
  * UsageStatsDao for updating user statistics of system in database
- * @author Aunsh
+ * @author 
  */
 public class UsageStatsDao {
 	static Logger logger = Logger.getLogger(UsageStatsDao.class);
