@@ -17,7 +17,7 @@ import service.LoginService;
 
 /**
  * Servlet implementation class LoginController
- * @author Anirudh
+ * @author 
  * LoginController for logging a user in
  */
 @WebServlet("/LoginController")
