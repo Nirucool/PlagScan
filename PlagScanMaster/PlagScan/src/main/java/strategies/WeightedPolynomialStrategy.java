@@ -11,7 +11,7 @@ import strategypattern.ComparisonStrategy;
  * This class implements the Weighted Polynomial Strategy. It uses more the three comparison strategies 
  * and computes an overall score using a weighted polynomial function
  *
- * @author  Aunsh Chaudhari
+ * @author
  */
 
 public class WeightedPolynomialStrategy implements ComparisonStrategy {
