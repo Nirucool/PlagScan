@@ -2,7 +2,7 @@ package model;
 
 /*
  * Model for Instructor, replicates the fields present in the Professor and TA tables in DB
- * @author Anirudh
+ * @author 
  */
 
 public class Instructor 
