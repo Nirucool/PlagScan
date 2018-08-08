@@ -19,7 +19,7 @@ import strategypattern.ComparisonStrategy;
  * This class implements the Longest Common Sequence algorithm for list of submissions
  * passed to it and computes the similarity percent for each file/submission
  *
- * @author  Aunsh Chaudhari
+ * @author 
  */
 public class LCS implements ComparisonStrategy{
 	
