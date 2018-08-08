@@ -3,7 +3,7 @@ package strategies;
 
 /**
  * Custom Exception for Files not present at path/destination
- * @author Aunsh
+ * @author
  */
 public class NoFilesPresentException extends Exception {
 
