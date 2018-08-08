@@ -14,7 +14,7 @@ import model.Submission;
  * This class implements a strategy to compare two files
  * for the owner and author of the file
  *
- * @author  Aunsh Chaudhari
+ * @author
  */
 public class AuthorStrategy{
 	
