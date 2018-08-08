@@ -22,7 +22,7 @@ import strategypattern.ComparisonStrategy;
  * This is a string comparison strategy that can help in comparing the code of two
  * code files
  *
- * @author  Aunsh Chaudhari
+ * @author
  */
 public class EditDistance implements ComparisonStrategy{
 	
