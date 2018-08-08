@@ -1,21 +1,9 @@
-**Team 105 – PlagiarismCheck application**
+**PlagiarismCheck application**
 
 **Team members:**
-
-Naga Sai Anirudh Upadhyayula – [upadhyayula.n@husky.neu.edu](mailto:upadhyayula.n@husky.neu.edu)
 Nirupama Sharma – [sharma.nir@husky.neu.edu](mailto:sharma.nir@husky.neu.edu)
-Aunsh Chaudhari – [chaudhari.au@husky.neu.edu](mailto:chaudhari.au@husky.neu.edu)
 
-**Links to YouTube videos:**
-
-1. [Team-105 Presentation](https://youtu.be/a5e-vaMX2oo)
-2. [Team-105 System Demo](https://youtu.be/un2oRDon52I)
-3. [Team-105 System Setup](https://youtu.be/J-WCqWUBqu4)
-
-**Link to live system**
-[Link to live system](http://checkplagiarism.us-east-2.elasticbeanstalk.com/)
-
-**Prerequisites for running our application:**
+**Prerequisites for running the application:**
 
 1. Java, preferably jdk1.8
 2. Apache Maven, preferably Maven 3.5.2
@@ -43,13 +31,7 @@ After setting up the project folder on eclipse, the next step would be to be abl
 2. If a server doesn&#39;t already exist, select the **Servers** tab at the bottom and click on **Create a new Server.** A new window opens which prompts you to select the tomcat directory. Tomcat when installed would ideally be in the Program Files folder (on Windows). Browse to the location and select the tomcat folder. Keep hitting Next until you find Finish and the server then gets created.
 3. Once the server is created, right click on the server and add the current project (deployment descriptor) and start the server.
 4. Please make sure no other process is running on the 8080 port. If so, be sure to kill that process and try starting the server again.
-5. Once the server starts, open the browser of your choice and launch the application using the below URL.
-
-[http://localhost:8080/cs5500-sp2018-team105/login.jsp](http://localhost:8080/cs5500-sp2018-team105/login.jsp)
-
-or
-
-[http://localhost:8080/cs5500-sp2018-team105/](http://localhost:8080/cs5500-sp2018-team105/)
+5. Once the server starts, open the browser of your choice and launch the application.
 
 Once the login page loads, the application is all yours. Happy testing!
 
