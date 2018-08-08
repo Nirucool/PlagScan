@@ -14,7 +14,7 @@ import connection.DBConnection;
  * LoginDao class acts as an interface between the Servlet and the DB
  * when a user logs in to the application
  * retrieves the username and password from DB
- * @author Anirudh
+ * @author 
  */ 
 
 public class LoginDao 
